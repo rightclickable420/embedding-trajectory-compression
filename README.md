@@ -1,5 +1,7 @@
 # Embedding Trajectory Compression for Persistent Agent Memory
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18778409.svg)](https://doi.org/10.5281/zenodo.18778409)
+
 **SVD, DCT, and Access-Driven Reconsolidation**
 
 A sequence of sentence embeddings is a trajectory through semantic space — a waveform amenable to the same transforms used in JPEG, MP3, and video compression. This repo implements and evaluates two novel applications of classical transforms to AI agent memory:
@@ -99,6 +101,7 @@ See `paper/paper.md` for the full writeup including methodology, baselines, abla
 ```
 Gill, E. & Ash, K. (2026). Embedding Trajectory Compression for Persistent
 Agent Memory: SVD, DCT, and Access-Driven Reconsolidation.
+DOI: 10.5281/zenodo.18778409
 ```
 
 ## License
